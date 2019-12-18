@@ -8,6 +8,3 @@
 |username| string | Y | 用户名| 
 |password| string | Y | 密码|
 
-| column | column |
-|--------|--------|
-| username|   string     |
